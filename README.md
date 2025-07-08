@@ -1,2 +1,2 @@
-# Zach-s-Portfolio-Site
-A portfolio site I created for an assignment, with the help of AI
+# WD LiveLab 2: Demo Starter Code
+A portfolio site I created with the help of AI
